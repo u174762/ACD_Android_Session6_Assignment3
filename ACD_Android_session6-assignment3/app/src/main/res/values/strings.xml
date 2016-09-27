@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PopUpMenu</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_text">Text Color</string>
+</resources>
